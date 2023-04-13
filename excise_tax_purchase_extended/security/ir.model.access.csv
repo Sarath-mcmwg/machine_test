@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_excise_tax_purchase_extended_excise_tax_purchase_extended,excise_tax_purchase_extended.excise_tax_purchase_extended,model_excise_tax_purchase_extended_excise_tax_purchase_extended,base.group_user,1,1,1,1
